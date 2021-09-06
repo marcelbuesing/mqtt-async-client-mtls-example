@@ -1,0 +1,3 @@
+certs/
+log/mosquitto.log
+mosquitto-config/passwd
